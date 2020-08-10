@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Luis Fernando 's github stats](https://github-readme-stats.vercel.app/api?username=luisfernandods&count_private=true)
+![Luis Fernando 's github stats](https://github-readme-stats.vercel.app/api?username=luisfernandods&count_private=true&hide=stars,prs,issues,contribs)
 
 <!--
 **luisfernandods/luisfernandods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
